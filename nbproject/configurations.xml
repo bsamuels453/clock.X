@@ -6,7 +6,8 @@
                    projectFiles="true">
       <itemPath>main.h</itemPath>
       <itemPath>definition.h</itemPath>
-      <itemPath>dsd.h</itemPath>
+      <itemPath>flash.h</itemPath>
+      <itemPath>DEE Emulation 16-bit.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -17,6 +18,9 @@
                    projectFiles="true">
       <itemPath>main.c</itemPath>
       <itemPath>reference.c</itemPath>
+      <itemPath>flash.c</itemPath>
+      <itemPath>Flash Operations.s</itemPath>
+      <itemPath>DEE Emulation 16-bit.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
